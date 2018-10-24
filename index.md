@@ -11,7 +11,7 @@ Jim O'Gorman
 * E-Mail: <jim@elwood.net>
 * Twitter: [\_Elwood\_](https://twitter.com/_elwood_)
 
-##### GPG
+### GPG
 [AFB0F138](AFB0F138_Public.asc)
 Fingerprint `F8DA E825 559C B149 649C  43ED AD5E 03A8 AFB0 F138`
 

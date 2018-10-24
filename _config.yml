@@ -1,4 +1,5 @@
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
+theme: jekyll-theme-tactile
 title: jim@elwood.net
 github:
   is_project_page: false
