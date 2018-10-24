@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+Jim@Elwood.net
+=======
 
-You can use the [editor on GitHub](https://github.com/jogorman/jogorman.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About
+I am an information security professional that has been active in the industry and community for many years. In the past I have worked in roles ranging from various consulting items, course ware development, live information security training, sales, and product development. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I work as part of the management team of [Offensive Security](https://www.offensive-security.com/about-us/) where among my duties I am the lead trainer for [Penetration Testing with Kali Linux](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/) and I lead the [Kali Linux](https://www.kali.org) project.
 
-### Markdown
+### Contact
+Jim O'Gorman
+* E-Mail: <jim@elwood.net>
+* Twitter: [\_Elwood\_](https://twitter.com/_elwood_)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### GPG
+[AFB0F138](AFB0F138_Public.asc)
+Fingerprint `F8DA E825 559C B149 649C  43ED AD5E 03A8 AFB0 F138`
 
-```markdown
-Syntax highlighted code block
+### Books
+* [Kali Linux Revealed: Mastering the Penetration Testing Distribution](https://www.amazon.com/Kali-Linux-Revealed-Penetration-Distribution/dp/0997615605/)
+* [Kali Linux Revealed: Online](https://kali.training/topic/abstract/)
+* [Metasploit: The Penetration Tester's Guide](https://www.amazon.com//dp/159327288X/)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jogorman/jogorman.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
