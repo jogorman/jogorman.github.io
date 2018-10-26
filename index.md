@@ -13,7 +13,7 @@ Jim O'Gorman
 
 ### GPG
 [AFB0F138](AFB0F138_Public.asc)
-Fingerprint `F8DA E825 559C B149 649C  43ED AD5E 03A8 AFB0 F138`
+Fingerprint `F8DA E825 559C B149 649C 43ED AD5E 03A8 AFB0 F138`
 
 ### Books
 * [Kali Linux Revealed: Mastering the Penetration Testing Distribution](https://www.amazon.com/Kali-Linux-Revealed-Penetration-Distribution/dp/0997615605/)
