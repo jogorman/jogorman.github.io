@@ -17,3 +17,10 @@ Jim O'Gorman
 * [Kali Linux Revealed: Online](https://kali.training/topic/abstract/)
 * [Metasploit: The Penetration Tester's Guide](https://www.amazon.com//dp/159327288X/)
 
+
+
+
+
+
+
+k7mR9pXvQ2nL4tJwB8fD3sG5cH6yK1uZ
