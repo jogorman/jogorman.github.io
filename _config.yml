@@ -1,5 +1,4 @@
-#theme: jekyll-theme-hacker
-theme: jekyll-theme-tactile
-title: jim@elwood.net
+title: Jim O'Gorman
+description: Security executive, company builder, and privacy advocate.
 github:
   is_project_page: false
